@@ -1,5 +1,5 @@
 # TSCFootbot-RCJ-LWL-PCB
-This public repository contains the electrical schematic of the 2024 lightweight robot, the bottom layer PCB used for line detecting, and the top layer PCB used for everything else basically.
+This public repository contains the electrical schematic of the 2024 lightweight robot, the bottom layer PCB used for line detecting, and the top layer PCB used for everything else basically. All files are exported from EasyEDA, but can be imported into KiCad.
 
 ![20240619_144610](https://github.com/user-attachments/assets/1e686d54-ba68-42fc-b98a-b8f1a547be75)
 
