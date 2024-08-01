@@ -1,2 +1,3 @@
 # TSCFootbot-RCJ-LWL-PCB
-Electrical diagram and pcb gerber files for TŠC Footbot 2024 lightweight soccer robot
+This public repository contains the electrical schematic of the 2024 lightweight robot, bottom layer PCB used for line detecting and the top layer PCB used for everything else basically.
+
